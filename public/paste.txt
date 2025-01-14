@@ -1,0 +1,389 @@
+Taxonomic Hierarchy (showing only relevant branches):
+────────────────────────────────────────────────────────────────────────────────
+└── root (1) [no rank] {x: 20px}
+    ├── Viruses (10239) [superkingdom] {x: 40px} [Group name: viruses]
+    ├── cellular organisms (131567) [no rank] {x: 40px}
+    │   ├── Archaea (2157) [superkingdom] {x: 40px} [Group name: archaea]
+    │   │   ├── Methanobacteriati (3366610) [kingdom] {x: 60px}
+    │   │   │   └── Methanobacteriota (28890) [phylum] {x: 100px} [Group name: euryarchaeotes]
+    │   │   └── Thermoproteati (1783275) [kingdom] {x: 60px}
+    │   │       └── Thermoproteota (28889) [phylum] {x: 100px} [Group name: crenarchaeotes]
+    │   ├── Bacteria (2) [superkingdom] {x: 40px} [Group name: bacteria]
+    │   │   ├── Bacillati (1783272) [kingdom] {x: 60px}
+    │   │   │   ├── Actinomycetota (201174) [phylum] {x: 100px} [Group name: actinobacteria]
+    │   │   │   │   └── Actinomycetes (1760) [class] {x: 140px} [Group name: high G+C Gram-positive bacteria]
+    │   │   │   ├── Bacillota (1239) [phylum] {x: 100px} [Group name: firmicutes]
+    │   │   │   ├── Chloroflexota (200795) [phylum] {x: 100px} [Group name: GNS bacteria]
+    │   │   │   ├── Cyanobacteriota/Melainabacteria group (1798711) [clade] {x: 70px}
+    │   │   │   │   └── Cyanobacteriota (1117) [phylum] {x: 100px} [Group name: cyanobacteria]
+    │   │   │   └── Mycoplasmatota (544448) [phylum] {x: 100px}
+    │   │   │       └── Mollicutes (31969) [class] {x: 140px} [Group name: mycoplasmas]
+    │   │   ├── Fusobacteriati (3384189) [kingdom] {x: 60px}
+    │   │   │   └── Fusobacteriota (32066) [phylum] {x: 100px} [Group name: fusobacteria]
+    │   │   ├── Pseudomonadati (3379134) [kingdom] {x: 60px}
+    │   │   │   ├── Aquificota (200783) [phylum] {x: 100px}
+    │   │   │   │   └── Aquificia (187857) [class] {x: 140px}
+    │   │   │   │       └── Aquificales (32069) [order] {x: 180px} [Group name: aquificales]
+    │   │   │   ├── Campylobacterota (29547) [phylum] {x: 100px} [Group name: e-proteobacteria]
+    │   │   │   ├── FCB group (1783270) [clade] {x: 70px}
+    │   │   │   │   └── Bacteroidota/Chlorobiota group (68336) [clade] {x: 70px}
+    │   │   │   │       ├── Bacteroidota (976) [phylum] {x: 100px} [Group name: CFB group bacteria]
+    │   │   │   │       └── Chlorobiota (1090) [phylum] {x: 100px} [Group name: green sulfur bacteria]
+    │   │   │   ├── PVC group (1783257) [clade] {x: 70px}
+    │   │   │   │   ├── Chlamydiota (204428) [phylum] {x: 100px}
+    │   │   │   │   │   └── Chlamydiia (204429) [class] {x: 140px}
+    │   │   │   │   │       └── Chlamydiales (51291) [order] {x: 180px} [Group name: chlamydias]
+    │   │   │   │   ├── Planctomycetota (203682) [phylum] {x: 100px}
+    │   │   │   │   │   └── Planctomycetia (203683) [class] {x: 140px}
+    │   │   │   │   │       └── Planctomycetales (112) [order] {x: 180px} [Group name: planctomycetes]
+    │   │   │   │   └── Verrucomicrobiota (74201) [phylum] {x: 100px} [Group name: verrucomicrobia]
+    │   │   │   ├── Pseudomonadota (1224) [phylum] {x: 100px} [Group name: proteobacteria]
+    │   │   │   │   ├── Alphaproteobacteria (28211) [class] {x: 140px} [Group name: a-proteobacteria]
+    │   │   │   │   ├── Betaproteobacteria (28216) [class] {x: 140px} [Group name: b-proteobacteria]
+    │   │   │   │   └── Gammaproteobacteria (1236) [class] {x: 140px} [Group name: g-proteobacteria]
+    │   │   │   │       └── Enterobacterales (91347) [order] {x: 180px}
+    │   │   │   │           └── Enterobacteriaceae (543) [family] {x: 220px} [Group name: enterobacteria]
+    │   │   │   └── Spirochaetota (203691) [phylum] {x: 100px}
+    │   │   │       └── Spirochaetia (203692) [class] {x: 140px}
+    │   │   │           └── Spirochaetales (136) [order] {x: 180px} [Group name: spirochetes]
+    │   │   ├── Thermotogati (3384194) [kingdom] {x: 60px}
+    │   │   │   └── Thermotogota (200918) [phylum] {x: 100px}
+    │   │   │       └── Thermotogae (188708) [class] {x: 140px}
+    │   │   │           └── Thermotogales (2419) [order] {x: 180px} [Group name: thermotogales]
+    │   │   └── delta/epsilon subdivisions (68525) [clade] {x: 70px}
+    │   │       └── Deltaproteobacteria (28221) [class] {x: 140px} [Group name: d-proteobacteria]
+    │   └── Eukaryota (2759) [superkingdom] {x: 40px} [Group name: eukaryotes]
+    │       ├── Amoebozoa (554915) [clade] {x: 70px}
+    │       │   └── Evosea (2605435) [phylum] {x: 100px}
+    │       │       └── Eumycetozoa (142796) [class] {x: 140px}
+    │       │           ├── Dictyostelia (33083) [clade] {x: 70px} [Group name: cellular slime molds]
+    │       │           └── Myxogastria (33680) [clade] {x: 70px} [Group name: plasmodial slime molds]
+    │       ├── Cryptophyceae (3027) [class] {x: 140px} [Group name: cryptomonads]
+    │       ├── Discoba (2611352) [clade] {x: 70px}
+    │       │   └── Euglenozoa (33682) [phylum] {x: 100px}
+    │       │       ├── Euglenida (3035) [class] {x: 140px} [Group name: euglenoids]
+    │       │       └── Kinetoplastea (5653) [class] {x: 140px} [Group name: kinetoplastids]
+    │       ├── Haptista (2608109) [clade] {x: 70px}
+    │       │   └── Haptophyta (2830) [phylum] {x: 100px} [Group name: haptophytes]
+    │       ├── Metamonada (2611341) [clade] {x: 70px}
+    │       │   ├── Fornicata (207245) [phylum] {x: 100px}
+    │       │   │   └── Diplomonadida (5738) [order] {x: 180px} [Group name: diplomonads]
+    │       │   └── Parabasalia (5719) [phylum] {x: 100px}
+    │       │       └── Trichomonadida (37104) [order] {x: 180px} [Group name: trichomonads]
+    │       ├── Opisthokonta (33154) [clade] {x: 70px}
+    │       │   ├── Choanoflagellata (28009) [class] {x: 140px} [Group name: choanoflagellates]
+    │       │   ├── Fungi (4751) [kingdom] {x: 60px} [Group name: fungi]
+    │       │   │   ├── Dikarya (451864) [subkingdom] {x: 80px}
+    │       │   │   │   ├── Ascomycota (4890) [phylum] {x: 100px} [Group name: ascomycete fungi]
+    │       │   │   │   │   └── saccharomyceta (716545) [clade] {x: 70px}
+    │       │   │   │   │       ├── Pezizomycotina (147538) [subphylum] {x: 120px}
+    │       │   │   │   │       │   └── leotiomyceta (716546) [clade] {x: 70px}
+    │       │   │   │   │       │       └── sordariomyceta (715989) [clade] {x: 70px}
+    │       │   │   │   │       │           └── Leotiomycetes (147548) [class] {x: 140px}
+    │       │   │   │   │       │               └── Erysiphales (5120) [order] {x: 180px} [Group name: powdery mildews]
+    │       │   │   │   │       └── Saccharomycotina (147537) [subphylum] {x: 120px} [Group name: budding yeasts & others]
+    │       │   │   │   └── Basidiomycota (5204) [phylum] {x: 100px} [Group name: basidiomycete fungi]
+    │       │   │   │       ├── Pucciniomycotina (29000) [subphylum] {x: 120px}
+    │       │   │   │       │   └── Pucciniomycetes (162484) [class] {x: 140px}
+    │       │   │   │       │       └── Pucciniales (5258) [order] {x: 180px} [Group name: rust fungi]
+    │       │   │   │       └── Ustilaginomycotina (452284) [subphylum] {x: 120px}
+    │       │   │   │           └── Ustilaginomycetes (5257) [class] {x: 140px}
+    │       │   │   │               └── Ustilaginales (5267) [order] {x: 180px} [Group name: smut fungi]
+    │       │   │   └── Fungi incertae sedis (112252) [no rank] {x: 85px}
+    │       │   │       ├── Blastocladiomycota (451459) [phylum] {x: 100px} [Group name: blastocladiomycotan fungi]
+    │       │   │       ├── Chytridiomycota (4761) [phylum] {x: 100px} [Group name: chytrids & allies]
+    │       │   │       │   └── Chytridiomycota incertae sedis (2683659) [no rank] {x: 110px}
+    │       │   │       │       └── Monoblepharidomycetes (451454) [class] {x: 140px} [Group name: monoblepharidomycetes]
+    │       │   │       ├── Microsporidia (6029) [phylum] {x: 100px} [Group name: microsporidians]
+    │       │   │       ├── Mucoromycota (1913637) [phylum] {x: 100px} [Group name: mucoromycotan fungi]
+    │       │   │       │   └── Glomeromycotina (214504) [subphylum] {x: 120px} [Group name: AM fungi]
+    │       │   │       │       └── Glomeromycetes (214506) [class] {x: 140px} [Group name: glomeromycetes]
+    │       │   │       └── Zoopagomycota (1913638) [phylum] {x: 100px} [Group name: zoopagomycotan fungi]
+    │       │   └── Metazoa (33208) [kingdom] {x: 60px} [Group name: animals]
+    │       │       ├── Eumetazoa (6072) [clade] {x: 70px}
+    │       │       │   ├── Bilateria (33213) [clade] {x: 70px}
+    │       │       │   │   ├── Deuterostomia (33511) [clade] {x: 70px}
+    │       │       │   │   │   ├── Chordata (7711) [phylum] {x: 100px} [Group name: chordates]
+    │       │       │   │   │   │   ├── Cephalochordata (7735) [subphylum] {x: 120px} [Group name: lancelets]
+    │       │       │   │   │   │   ├── Craniata (89593) [subphylum] {x: 120px}
+    │       │       │   │   │   │   │   └── Vertebrata (7742) [clade] {x: 70px} [Group name: vertebrates]
+    │       │       │   │   │   │   │       ├── Cyclostomata (1476529) [clade] {x: 70px}
+    │       │       │   │   │   │   │       │   ├── Hyperoartia (117569) [class] {x: 140px}
+    │       │       │   │   │   │   │       │   │   └── Petromyzontiformes (7745) [order] {x: 180px} [Group name: lampreys]
+    │       │       │   │   │   │   │       │   └── Myxini (117565) [class] {x: 140px}
+    │       │       │   │   │   │   │       │       └── Myxiniformes (7761) [order] {x: 180px} [Group name: hagfishes]
+    │       │       │   │   │   │   │       └── Gnathostomata (7776) [clade] {x: 70px}
+    │       │       │   │   │   │   │           ├── Chondrichthyes (7777) [class] {x: 140px} [Group name: cartilaginous fishes]
+    │       │       │   │   │   │   │           │   ├── Elasmobranchii (7778) [subclass] {x: 160px} [Group name: sharks & rays]
+    │       │       │   │   │   │   │           │   └── Holocephali (7863) [subclass] {x: 160px}
+    │       │       │   │   │   │   │           │       └── Chimaeriformes (7864) [order] {x: 180px} [Group name: chimaeras]
+    │       │       │   │   │   │   │           └── Teleostomi (117570) [clade] {x: 70px}
+    │       │       │   │   │   │   │               └── Euteleostomi (117571) [clade] {x: 70px}
+    │       │       │   │   │   │   │                   ├── Actinopterygii (7898) [superclass] {x: 130px} [Group name: bony fishes]
+    │       │       │   │   │   │   │                   └── Sarcopterygii (8287) [superclass] {x: 130px}
+    │       │       │   │   │   │   │                       ├── Coelacanthimorpha (118072) [clade] {x: 70px}
+    │       │       │   │   │   │   │                       │   └── Coelacanthiformes (7894) [order] {x: 180px} [Group name: coelacanths]
+    │       │       │   │   │   │   │                       └── Dipnotetrapodomorpha (1338369) [clade] {x: 70px}
+    │       │       │   │   │   │   │                           ├── Dipnomorpha (7878) [subclass] {x: 160px} [Group name: lungfishes]
+    │       │       │   │   │   │   │                           └── Tetrapoda (32523) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               ├── Amniota (32524) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │   ├── Mammalia (40674) [class] {x: 140px} [Group name: mammals]
+    │       │       │   │   │   │   │                               │   │   ├── Prototheria (9254) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │   │   │   └── Monotremata (9255) [order] {x: 180px} [Group name: monotremes]
+    │       │       │   │   │   │   │                               │   │   └── Theria (32525) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │   │       ├── Eutheria (9347) [clade] {x: 70px} [Group name: placentals]
+    │       │       │   │   │   │   │                               │   │       │   └── Boreoeutheria (1437010) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │   │       │       ├── Euarchontoglires (314146) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │   │   │   │                               │   │       │       │   ├── Glires (314147) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │   │       │       │   │   ├── Lagomorpha (9975) [order] {x: 180px} [Group name: rabbits & hares]
+    │       │       │   │   │   │   │                               │   │       │       │   │   └── Rodentia (9989) [order] {x: 180px} [Group name: rodents]
+    │       │       │   │   │   │   │                               │   │       │       │   └── Primates (9443) [order] {x: 180px} [Group name: primates]
+    │       │       │   │   │   │   │                               │   │       │       └── Laurasiatheria (314145) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │   │   │   │                               │   │       │           ├── Artiodactyla (91561) [order] {x: 180px} [Group name: even-toed ungulates & whales]
+    │       │       │   │   │   │   │                               │   │       │           │   └── Whippomorpha (2653789) [suborder] {x: 200px}
+    │       │       │   │   │   │   │                               │   │       │           │       └── Cetacea (9721) [infraorder] {x: 120px} [Group name: whales & dolphins]
+    │       │       │   │   │   │   │                               │   │       │           ├── Carnivora (33554) [order] {x: 180px} [Group name: carnivores]
+    │       │       │   │   │   │   │                               │   │       │           ├── Chiroptera (9397) [order] {x: 180px} [Group name: bats]
+    │       │       │   │   │   │   │                               │   │       │           ├── Eulipotyphla (9362) [order] {x: 180px} [Group name: insectivores]
+    │       │       │   │   │   │   │                               │   │       │           └── Perissodactyla (9787) [order] {x: 180px} [Group name: odd-toed ungulates]
+    │       │       │   │   │   │   │                               │   │       └── Metatheria (9263) [clade] {x: 70px} [Group name: marsupials]
+    │       │       │   │   │   │   │                               │   └── Sauropsida (8457) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │       └── Sauria (32561) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           ├── Archelosauria (1329799) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   ├── Archosauria (8492) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │   ├── Crocodylia (1294634) [order] {x: 180px}
+    │       │       │   │   │   │   │                               │           │   │   │   └── Longirostres (1298654) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │   │       └── Crocodylidae (8493) [family] {x: 220px} [Group name: crocodiles]
+    │       │       │   │   │   │   │                               │           │   │   └── Dinosauria (436486) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │       └── Saurischia (436489) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │           └── Theropoda (436491) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │               └── Coelurosauria (436492) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │                   └── Aves (8782) [class] {x: 140px} [Group name: birds]
+    │       │       │   │   │   │   │                               │           │   │                       └── Neognathae (8825) [infraclass] {x: 150px}
+    │       │       │   │   │   │   │                               │           │   │                           └── Neoaves (3078114) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │                               └── Telluraves (3073808) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │                                   └── Accipitrimorphae (3073811) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │           │   │                                       └── Accipitriformes (2558200) [order] {x: 180px} [Group name: hawks & eagles]
+    │       │       │   │   │   │   │                               │           │   └── Testudinata (2841271) [subclass] {x: 160px}
+    │       │       │   │   │   │   │                               │           │       └── Testudines (8459) [order] {x: 180px} [Group name: turtles]
+    │       │       │   │   │   │   │                               │           └── Lepidosauria (8504) [class] {x: 140px} [Group name: lizards & snakes]
+    │       │       │   │   │   │   │                               │               └── Squamata (8509) [order] {x: 180px}
+    │       │       │   │   │   │   │                               │                   └── Bifurcata (1329961) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │                       └── Unidentata (1329950) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │                           └── Episquamata (1329912) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │                               └── Toxicofera (1329911) [clade] {x: 70px}
+    │       │       │   │   │   │   │                               │                                   └── Serpentes (8570) [infraorder] {x: 120px} [Group name: snakes]
+    │       │       │   │   │   │   │                               └── Amphibia (8292) [class] {x: 140px} [Group name: amphibians]
+    │       │       │   │   │   │   │                                   ├── Batrachia (41666) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │   │   │   │                                   │   ├── Anura (8342) [order] {x: 180px} [Group name: frogs & toads]
+    │       │       │   │   │   │   │                                   │   └── Caudata (8293) [order] {x: 180px} [Group name: salamanders]
+    │       │       │   │   │   │   │                                   └── Gymnophiona (8445) [order] {x: 180px} [Group name: caecilians]
+    │       │       │   │   │   │   └── Tunicata (7712) [subphylum] {x: 120px} [Group name: tunicates]
+    │       │       │   │   │   ├── Echinodermata (7586) [phylum] {x: 100px} [Group name: echinoderms]
+    │       │       │   │   │   │   ├── Eleutherozoa (133551) [clade] {x: 70px}
+    │       │       │   │   │   │   │   ├── Asterozoa (7587) [superclass] {x: 130px}
+    │       │       │   │   │   │   │   │   ├── Asteroidea (7588) [class] {x: 140px} [Group name: starfish]
+    │       │       │   │   │   │   │   │   └── Ophiuroidea (7618) [class] {x: 140px} [Group name: brittle stars]
+    │       │       │   │   │   │   │   └── Echinozoa (7624) [superclass] {x: 130px}
+    │       │       │   │   │   │   │       ├── Echinoidea (7625) [class] {x: 140px} [Group name: sea urchins]
+    │       │       │   │   │   │   │       └── Holothuroidea (7705) [class] {x: 140px} [Group name: sea cucumbers]
+    │       │       │   │   │   │   └── Pelmatozoa (133550) [clade] {x: 70px}
+    │       │       │   │   │   │       └── Crinoidea (35069) [class] {x: 140px} [Group name: crinoids]
+    │       │       │   │   │   └── Hemichordata (10219) [phylum] {x: 100px} [Group name: hemichordates]
+    │       │       │   │   └── Protostomia (33317) [clade] {x: 70px}
+    │       │       │   │       ├── Ecdysozoa (1206794) [clade] {x: 70px}
+    │       │       │   │       │   ├── Nematoda (6231) [phylum] {x: 100px} [Group name: nematodes]
+    │       │       │   │       │   ├── Nematomorpha (33310) [phylum] {x: 100px} [Group name: horsehair worms]
+    │       │       │   │       │   ├── Panarthropoda (88770) [clade] {x: 70px}
+    │       │       │   │       │   │   ├── Arthropoda (6656) [phylum] {x: 100px} [Group name: arthropods]
+    │       │       │   │       │   │   │   ├── Chelicerata (6843) [subphylum] {x: 120px}
+    │       │       │   │       │   │   │   │   ├── Arachnida (6854) [class] {x: 140px} [Group name: arachnids]
+    │       │       │   │       │   │   │   │   │   ├── Acari (6933) [subclass] {x: 160px} [Group name: mites & ticks]
+    │       │       │   │       │   │   │   │   │   ├── Amblypygi (61977) [order] {x: 180px} [Group name: whip spiders]
+    │       │       │   │       │   │   │   │   │   ├── Araneae (6893) [order] {x: 180px} [Group name: spiders]
+    │       │       │   │       │   │   │   │   │   ├── Opiliones (43271) [order] {x: 180px} [Group name: daddy longlegs]
+    │       │       │   │       │   │   │   │   │   ├── Palpigradi (88344) [order] {x: 180px} [Group name: microwhip scorpions]
+    │       │       │   │       │   │   │   │   │   ├── Pseudoscorpiones (51799) [order] {x: 180px} [Group name: false scorpions]
+    │       │       │   │       │   │   │   │   │   ├── Ricinulei (58139) [order] {x: 180px} [Group name: hooded tickspiders]
+    │       │       │   │       │   │   │   │   │   ├── Scorpiones (6855) [order] {x: 180px} [Group name: scorpions]
+    │       │       │   │       │   │   │   │   │   ├── Solifugae (41356) [order] {x: 180px} [Group name: sun spiders]
+    │       │       │   │       │   │   │   │   │   └── Uropygi (58151) [order] {x: 180px} [Group name: whip scorpions]
+    │       │       │   │       │   │   │   │   ├── Merostomata (6844) [class] {x: 140px} [Group name: horseshoe crabs]
+    │       │       │   │       │   │   │   │   └── Pycnogonida (57294) [class] {x: 140px} [Group name: sea spiders]
+    │       │       │   │       │   │   │   └── Mandibulata (197563) [clade] {x: 70px}
+    │       │       │   │       │   │   │       ├── Myriapoda (61985) [subphylum] {x: 120px}
+    │       │       │   │       │   │   │       │   ├── Chilopoda (7540) [class] {x: 140px} [Group name: centipedes]
+    │       │       │   │       │   │   │       │   └── Diplopoda (7553) [class] {x: 140px} [Group name: millipedes]
+    │       │       │   │       │   │   │       └── Pancrustacea (197562) [clade] {x: 70px}
+    │       │       │   │       │   │   │           ├── Crustacea (6657) [subphylum] {x: 120px} [Group name: crustaceans]
+    │       │       │   │       │   │   │           │   └── Multicrustacea (2172821) [superclass] {x: 130px}
+    │       │       │   │       │   │   │           │       └── Malacostraca (6681) [class] {x: 140px}
+    │       │       │   │       │   │   │           │           └── Eumalacostraca (72041) [subclass] {x: 160px}
+    │       │       │   │       │   │   │           │               └── Peracarida (6820) [superorder] {x: 170px}
+    │       │       │   │       │   │   │           │                   ├── Amphipoda (6821) [order] {x: 180px} [Group name: amphipods]
+    │       │       │   │       │   │   │           │                   └── Isopoda (29979) [order] {x: 180px} [Group name: isopods]
+    │       │       │   │       │   │   │           └── Hexapoda (6960) [subphylum] {x: 120px} [Group name: hexapods]
+    │       │       │   │       │   │   │               ├── Collembola (30001) [class] {x: 140px} [Group name: springtails]
+    │       │       │   │       │   │   │               └── Insecta (50557) [class] {x: 140px} [Group name: insects]
+    │       │       │   │       │   │   │                   └── Dicondylia (85512) [clade] {x: 70px}
+    │       │       │   │       │   │   │                       └── Pterygota (7496) [subclass] {x: 160px}
+    │       │       │   │       │   │   │                           ├── Neoptera (33340) [infraclass] {x: 150px}
+    │       │       │   │       │   │   │                           │   ├── Endopterygota (33392) [cohort]
+    │       │       │   │       │   │   │                           │   │   ├── Amphiesmenoptera (85604) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │       │   │   │                           │   │   │   ├── Lepidoptera (7088) [order] {x: 180px} [Group name: moths]
+    │       │       │   │       │   │   │                           │   │   │   │   └── Glossata (41191) [suborder] {x: 200px}
+    │       │       │   │       │   │   │                           │   │   │   │       └── Neolepidoptera (41196) [infraorder] {x: 120px}
+    │       │       │   │       │   │   │                           │   │   │   │           └── Heteroneura (41197) [parvorder]
+    │       │       │   │       │   │   │                           │   │   │   │               └── Ditrysia (37567) [clade] {x: 70px}
+    │       │       │   │       │   │   │                           │   │   │   │                   └── Obtectomera (104431) [clade] {x: 70px}
+    │       │       │   │       │   │   │                           │   │   │   │                       └── Papilionoidea (37572) [superfamily] {x: 140px} [Group name: butterflies]
+    │       │       │   │       │   │   │                           │   │   │   └── Trichoptera (30263) [order] {x: 180px} [Group name: caddisflies]
+    │       │       │   │       │   │   │                           │   │   ├── Coleoptera (7041) [order] {x: 180px} [Group name: beetles]
+    │       │       │   │       │   │   │                           │   │   ├── Diptera (7147) [order] {x: 180px} [Group name: flies]
+    │       │       │   │       │   │   │                           │   │   │   └── Nematocera (7148) [suborder] {x: 200px}
+    │       │       │   │       │   │   │                           │   │   │       └── Culicomorpha (43786) [infraorder] {x: 120px}
+    │       │       │   │       │   │   │                           │   │   │           └── Culicoidea (41827) [superfamily] {x: 140px}
+    │       │       │   │       │   │   │                           │   │   │               └── Culicidae (7157) [family] {x: 220px} [Group name: mosquitos]
+    │       │       │   │       │   │   │                           │   │   ├── Hymenoptera (7399) [order] {x: 180px} [Group name: hymenopterans]
+    │       │       │   │       │   │   │                           │   │   │   └── Apocrita (7400) [suborder] {x: 200px} [Group name: wasps, ants & bees]
+    │       │       │   │       │   │   │                           │   │   │       └── Aculeata (7434) [infraorder] {x: 120px}
+    │       │       │   │       │   │   │                           │   │   │           ├── Apoidea (34735) [superfamily] {x: 140px} [Group name: bees]
+    │       │       │   │       │   │   │                           │   │   │           └── Formicoidea (2153479) [superfamily] {x: 140px}
+    │       │       │   │       │   │   │                           │   │   │               └── Formicidae (36668) [family] {x: 220px} [Group name: ants]
+    │       │       │   │       │   │   │                           │   │   ├── Mecoptera (27420) [order] {x: 180px} [Group name: scorpionflies]
+    │       │       │   │       │   │   │                           │   │   ├── Siphonaptera (7509) [order] {x: 180px} [Group name: fleas]
+    │       │       │   │       │   │   │                           │   │   └── Strepsiptera (30261) [order] {x: 180px} [Group name: twisted-wing parasites]
+    │       │       │   │       │   │   │                           │   ├── Paraneoptera (33342) [cohort]
+    │       │       │   │       │   │   │                           │   │   ├── Hemiptera (7524) [order] {x: 180px} [Group name: bugs]
+    │       │       │   │       │   │   │                           │   │   │   └── Sternorrhyncha (33373) [suborder] {x: 200px}
+    │       │       │   │       │   │   │                           │   │   │       ├── Aleyrodoidea (33377) [superfamily] {x: 140px} [Group name: whiteflies]
+    │       │       │   │       │   │   │                           │   │   │       ├── Aphidomorpha (33380) [infraorder] {x: 120px} [Group name: aphids]
+    │       │       │   │       │   │   │                           │   │   │       ├── Coccoidea (33381) [superfamily] {x: 140px} [Group name: scale insects]
+    │       │       │   │       │   │   │                           │   │   │       └── Psylloidea (33375) [superfamily] {x: 140px} [Group name: psyllids]
+    │       │       │   │       │   │   │                           │   │   ├── Psocodea (1930602) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │       │   │   │                           │   │   │   ├── Phthiraptera (85819) [order] {x: 180px} [Group name: lice]
+    │       │       │   │       │   │   │                           │   │   │   └── Psocoptera (30259) [order] {x: 180px} [Group name: booklice]
+    │       │       │   │       │   │   │                           │   │   └── Thysanoptera (30262) [order] {x: 180px} [Group name: thrips]
+    │       │       │   │       │   │   │                           │   └── Polyneoptera (33341) [cohort]
+    │       │       │   │       │   │   │                           │       ├── Dermaptera (27434) [order] {x: 180px} [Group name: earwigs]
+    │       │       │   │       │   │   │                           │       ├── Dictyoptera (6970) [superorder] {x: 170px} {x: 170px}
+    │       │       │   │       │   │   │                           │       │   ├── Blattodea (85823) [order] {x: 180px} [Group name: roaches]
+    │       │       │   │       │   │   │                           │       │   │   └── Blattoidea (1049657) [superfamily] {x: 140px}
+    │       │       │   │       │   │   │                           │       │   │       └── Termitoidae (1912919) [no rank] {x: 160px} [Group name: termites]
+    │       │       │   │       │   │   │                           │       │   └── Mantodea (7504) [order] {x: 180px} [Group name: mantids]
+    │       │       │   │       │   │   │                           │       ├── Embioptera (50657) [order] {x: 180px} [Group name: web-spinners]
+    │       │       │   │       │   │   │                           │       ├── Orthoptera (6993) [order] {x: 180px} [Group name: grasshoppers, crickets, & katydids]
+    │       │       │   │       │   │   │                           │       │   ├── Caelifera (7001) [suborder] {x: 200px} [Group name: grasshoppers]
+    │       │       │   │       │   │   │                           │       │   └── Ensifera (6994) [suborder] {x: 200px} [Group name: crickets]
+    │       │       │   │       │   │   │                           │       ├── Phasmatodea (7020) [order] {x: 180px} [Group name: walking sticks]
+    │       │       │   │       │   │   │                           │       └── Plecoptera (50622) [order] {x: 180px} [Group name: stoneflies]
+    │       │       │   │       │   │   │                           └── Palaeoptera (33339) [infraclass] {x: 150px}
+    │       │       │   │       │   │   │                               ├── Ephemeroptera (30073) [order] {x: 180px} [Group name: mayflies]
+    │       │       │   │       │   │   │                               └── Odonata (6961) [order] {x: 180px} [Group name: dragonflies & damselflies]
+    │       │       │   │       │   │   │                                   └── Zygoptera (50488) [suborder] {x: 200px} [Group name: damselflies]
+    │       │       │   │       │   │   ├── Onychophora (27563) [phylum] {x: 100px} [Group name: velvet worms]
+    │       │       │   │       │   │   └── Tardigrada (42241) [phylum] {x: 100px} [Group name: tardigrades]
+    │       │       │   │       │   └── Scalidophora (1215728) [superphylum] {x: 90px}
+    │       │       │   │       │       ├── Kinorhyncha (51516) [phylum] {x: 100px} [Group name: mud dragons]
+    │       │       │   │       │       ├── Loricifera (310840) [phylum] {x: 100px} [Group name: loriciferans]
+    │       │       │   │       │       └── Priapulida (33467) [phylum] {x: 100px} [Group name: priapulids]
+    │       │       │   │       └── Spiralia (2697495) [clade] {x: 70px}
+    │       │       │   │           ├── Gnathifera (2697496) [clade] {x: 70px}
+    │       │       │   │           │   ├── Chaetognatha (10229) [phylum] {x: 100px} [Group name: arrow worms]
+    │       │       │   │           │   ├── Gnathostomulida (66780) [phylum] {x: 100px} [Group name: jaw worms]
+    │       │       │   │           │   ├── Micrognathozoa (195505) [class] {x: 140px} [Group name: micrognathozoans]
+    │       │       │   │           │   └── Rotifera (10190) [phylum] {x: 100px} [Group name: rotifers]
+    │       │       │   │           └── Lophotrochozoa (1206795) [clade] {x: 70px}
+    │       │       │   │               ├── Acanthocephala (10232) [phylum] {x: 100px} [Group name: thorny-headed worms]
+    │       │       │   │               ├── Annelida (6340) [phylum] {x: 100px} [Group name: segmented worms]
+    │       │       │   │               │   ├── Polychaeta (6341) [class] {x: 140px}
+    │       │       │   │               │   │   ├── Echiura (6427) [subclass] {x: 160px} [Group name: spoonworms]
+    │       │       │   │               │   │   └── Sedentaria (105389) [subclass] {x: 160px}
+    │       │       │   │               │   │       └── Canalipalpata (105391) [infraclass] {x: 150px}
+    │       │       │   │               │   │           └── Sabellida (6362) [order] {x: 180px}
+    │       │       │   │               │   │               └── Siboglinidae (41324) [family] {x: 220px} [Group name: tube worms]
+    │       │       │   │               │   └── Sipuncula (6433) [class] {x: 140px} [Group name: peanut worms]
+    │       │       │   │               ├── Brachiopoda (7568) [phylum] {x: 100px} [Group name: brachiopods]
+    │       │       │   │               ├── Bryozoa (10205) [phylum] {x: 100px} [Group name: bryozoans]
+    │       │       │   │               ├── Entoprocta (43120) [phylum] {x: 100px} [Group name: goblet worms]
+    │       │       │   │               ├── Gastrotricha (33313) [phylum] {x: 100px} [Group name: gastrotrichs]
+    │       │       │   │               ├── Mollusca (6447) [phylum] {x: 100px} [Group name: molluscs]
+    │       │       │   │               │   ├── Aplacophora (47122) [clade] {x: 70px}
+    │       │       │   │               │   │   └── Solenogastres (231996) [class] {x: 140px} [Group name: solenogasters]
+    │       │       │   │               │   ├── Bivalvia (6544) [class] {x: 140px} [Group name: bivalves]
+    │       │       │   │               │   ├── Cephalopoda (6605) [class] {x: 140px} [Group name: cephalopods]
+    │       │       │   │               │   ├── Gastropoda (6448) [class] {x: 140px} [Group name: gastropods]
+    │       │       │   │               │   ├── Monoplacophora (358446) [class] {x: 140px} [Group name: deep-sea limpets]
+    │       │       │   │               │   ├── Polyplacophora (6650) [class] {x: 140px} [Group name: chitons]
+    │       │       │   │               │   └── Scaphopoda (32584) [class] {x: 140px} [Group name: tusk shells]
+    │       │       │   │               ├── Nemertea (6217) [phylum] {x: 100px} [Group name: ribbon worms]
+    │       │       │   │               ├── Phoronida (120557) [phylum] {x: 100px} [Group name: phoronid worms]
+    │       │       │   │               └── Platyhelminthes (6157) [phylum] {x: 100px} [Group name: flatworms]
+    │       │       │   ├── Cnidaria (6073) [phylum] {x: 100px} [Group name: cnidarians]
+    │       │       │   │   ├── Anthozoa (6101) [class] {x: 140px} [Group name: anthozoans]
+    │       │       │   │   │   ├── Ceriantharia (37512) [subclass] {x: 160px} [Group name: tube anemones]
+    │       │       │   │   │   ├── Hexacorallia (6102) [subclass] {x: 160px}
+    │       │       │   │   │   │   ├── Actiniaria (6103) [order] {x: 180px} [Group name: sea anemones]
+    │       │       │   │   │   │   ├── Antipatharia (44168) [order] {x: 180px} [Group name: black corals]
+    │       │       │   │   │   │   ├── Corallimorpharia (44295) [order] {x: 180px} [Group name: coral anemones]
+    │       │       │   │   │   │   ├── Scleractinia (6125) [order] {x: 180px} [Group name: stony corals]
+    │       │       │   │   │   │   └── Zoantharia (44927) [order] {x: 180px} [Group name: mat anemones]
+    │       │       │   │   │   └── Octocorallia (6132) [subclass] {x: 160px} [Group name: soft corals]
+    │       │       │   │   │       └── Scleralcyonacea (3028851) [order] {x: 180px}
+    │       │       │   │   │           └── Pennatuloidea (6133) [superfamily] {x: 140px} [Group name: sea pens]
+    │       │       │   │   ├── Cubozoa (6137) [class] {x: 140px} [Group name: sea wasps]
+    │       │       │   │   ├── Hydrozoa (6074) [class] {x: 140px} [Group name: hydrozoans]
+    │       │       │   │   ├── Myxozoa (35581) [class] {x: 140px} [Group name: myxozoans]
+    │       │       │   │   └── Scyphozoa (6142) [class] {x: 140px} [Group name: jellyfishes]
+    │       │       │   ├── Ctenophora (10197) [phylum] {x: 100px} [Group name: comb jellies]
+    │       │       │   └── Placozoa (10226) [phylum] {x: 100px} [Group name: placozoans]
+    │       │       └── Porifera (6040) [phylum] {x: 100px} [Group name: sponges]
+    │       ├── Rhodophyta (2763) [phylum] {x: 100px} [Group name: red algae]
+    │       ├── Sar (2698737) [clade] {x: 70px}
+    │       │   ├── Alveolata (33630) [clade] {x: 70px}
+    │       │   │   ├── Apicomplexa (5794) [phylum] {x: 100px} [Group name: apicomplexans]
+    │       │   │   ├── Ciliophora (5878) [phylum] {x: 100px} [Group name: ciliates]
+    │       │   │   └── Dinophyceae (2864) [class] {x: 140px} [Group name: dinoflagellates]
+    │       │   ├── Rhizaria (543769) [clade] {x: 70px}
+    │       │   │   ├── Cercozoa (136419) [phylum] {x: 100px} [Group name: cercozoans]
+    │       │   │   └── Retaria (2662056) [clade] {x: 70px}
+    │       │   │       └── Foraminifera (29178) [phylum] {x: 100px} [Group name: forams]
+    │       │   └── Stramenopiles (33634) [clade] {x: 70px}
+    │       │       ├── Bigyra (2683628) [class] {x: 140px}
+    │       │       │   └── Labyrinthulomycetes (35131) [subclass] {x: 160px} [Group name: slime nets]
+    │       │       ├── Ochrophyta (2696291) [clade] {x: 70px}
+    │       │       │   ├── Bacillariophyta (2836) [phylum] {x: 100px} [Group name: diatoms]
+    │       │       │   ├── Chrysophyceae (2825) [class] {x: 140px} [Group name: golden algae]
+    │       │       │   ├── PX clade (569578) [clade] {x: 70px}
+    │       │       │   │   ├── Phaeophyceae (2870) [class] {x: 140px} [Group name: brown algae]
+    │       │       │   │   └── Xanthophyceae (2833) [class] {x: 140px} [Group name: yellow-green algae]
+    │       │       │   └── Pelagophyceae (35675) [class] {x: 140px} [Group name: pelagophytes]
+    │       │       └── Oomycota (4762) [phylum] {x: 100px} [Group name: oomycetes]
+    │       │           └── Peronosporales (4776) [order] {x: 180px}
+    │       │               └── Peronosporaceae (4777) [family] {x: 220px} [Group name: downy mildews]
+    │       └── Viridiplantae (33090) [kingdom] {x: 60px} [Group name: green plants]
+    │           ├── Chlorophyta (3041) [phylum] {x: 100px} [Group name: green algae]
+    │           └── Streptophyta (35493) [phylum] {x: 100px}
+    │               └── Streptophytina (131221) [subphylum] {x: 120px}
+    │                   └── Embryophyta (3193) [clade] {x: 70px} [Group name: land plants]
+    │                       ├── Anthocerotophyta (13809) [clade] {x: 70px} [Group name: hornworts]
+    │                       ├── Bryophyta (3208) [clade] {x: 70px} [Group name: mosses]
+    │                       ├── Marchantiophyta (3195) [clade] {x: 70px} [Group name: liverworts]
+    │                       └── Tracheophyta (58023) [clade] {x: 70px} [Group name: vascular plants]
+    │                           ├── Euphyllophyta (78536) [clade] {x: 70px}
+    │                           │   ├── Polypodiopsida (241806) [class] {x: 140px} [Group name: ferns]
+    │                           │   │   └── Equisetidae (1521258) [subclass] {x: 160px} [Group name: horsetails]
+    │                           │   └── Spermatophyta (58024) [clade] {x: 70px} [Group name: seed plants]
+    │                           │       ├── Acrogymnospermae (1437180) [clade] {x: 70px}
+    │                           │       │   ├── Coniferophyta (3312) [clade] {x: 70px} [Group name: conifers]
+    │                           │       │   └── Cycadophyta (58020) [clade] {x: 70px} [Group name: cycads]
+    │                           │       └── Magnoliopsida (3398) [class] {x: 140px} [Group name: flowering plants]
+    │                           │           └── Mesangiospermae (1437183) [clade] {x: 70px}
+    │                           │               ├── Liliopsida (4447) [clade] {x: 70px} [Group name: monocots]
+    │                           │               └── eudicotyledons (71240) [clade] {x: 70px} [Group name: eudicots]
+    │                           └── Lycopodiopsida (1521260) [class] {x: 140px} [Group name: club-mosses]
+    ├── other entries (2787854) [no rank] {x: 40px}
+    │   └── other sequences (28384) [no rank] {x: 60px} [Group name: other sequences]
+    └── unclassified entries (2787823) [no rank] {x: 40px}
+        └── unclassified sequences (12908) [no rank] {x: 60px} [Group name: unclassified sequences]
+            └── metagenomes (408169) [no rank] {x: 80px} [Group name: metagenomes]
