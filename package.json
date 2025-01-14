@@ -18,3 +18,9 @@
     "postcss": "8.4.21"
   }
 }
+{
+  "scripts": {
+    "build": "next build",
+    "export": "next build && next export"
+  }
+}
