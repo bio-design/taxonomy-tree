@@ -1,10 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  images: {
-    unoptimized: true,
-  },
-  basePath: '/taxonomy-tree',
+  basePath: '/taxonomy-tree'
 }
 
 module.exports = nextConfig
